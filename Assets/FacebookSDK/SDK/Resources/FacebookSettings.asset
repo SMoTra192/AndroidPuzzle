@@ -16,9 +16,9 @@ MonoBehaviour:
   clientTokens:
   - 
   appIds:
-  - 0
+  - 6076674325759157
   appLabels:
-  - App Name
+  - Cool Puzzles - Jigsaw Game
   cookie: 1
   logging: 1
   status: 1

@@ -7,6 +7,7 @@ public class FBSDK : MonoBehaviour
 {
     void Awake ()
     {
+    DontDestroyOnLoad(this.gameObject);
       if (FB.IsInitialized) {
         FB.ActivateApp();
       } else {
