@@ -55,13 +55,13 @@
     <file>Assets/Plugins/Android/androidx.versionedparcelable.versionedparcelable-1.1.0.aar</file>
     <file>Assets/Plugins/Android/androidx.viewpager.viewpager-1.0.0.aar</file>
     <file>Assets/Plugins/Android/com.android.installreferrer.installreferrer-2.2.aar</file>
-    <file>Assets/Plugins/Android/com.facebook.android.facebook-applinks-16.0.0.aar</file>
-    <file>Assets/Plugins/Android/com.facebook.android.facebook-bolts-16.0.0.aar</file>
-    <file>Assets/Plugins/Android/com.facebook.android.facebook-common-16.0.0.aar</file>
-    <file>Assets/Plugins/Android/com.facebook.android.facebook-core-16.0.0.aar</file>
-    <file>Assets/Plugins/Android/com.facebook.android.facebook-gamingservices-16.0.0.aar</file>
-    <file>Assets/Plugins/Android/com.facebook.android.facebook-login-16.0.0.aar</file>
-    <file>Assets/Plugins/Android/com.facebook.android.facebook-share-16.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-applinks-16.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-bolts-16.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-common-16.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-core-16.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-gamingservices-16.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-login-16.0.1.aar</file>
+    <file>Assets/Plugins/Android/com.facebook.android.facebook-share-16.0.1.aar</file>
     <file>Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-18.0.1.aar</file>
     <file>Assets/Plugins/Android/com.google.android.gms.play-services-appset-16.0.2.aar</file>
     <file>Assets/Plugins/Android/com.google.android.gms.play-services-base-18.0.1.aar</file>
@@ -88,7 +88,7 @@
   </files>
   <settings>
     <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
-    <setting name="bundleId" value="com.NixPix.CoolPuzzles" />
+    <setting name="bundleId" value="puzzle.levels.CoolPuzzles" />
     <setting name="explodeAars" value="True" />
     <setting name="gradleBuildEnabled" value="True" />
     <setting name="gradlePropertiesTemplateEnabled" value="False" />

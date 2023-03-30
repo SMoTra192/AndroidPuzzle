@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55a0252f-4900-4cb8-8db0-1be352c1b787" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Fonts/LilitaOne/LilitaOne-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fonts/LilitaOne/LilitaOne-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.activity.activity-1.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.activity.activity-1.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.annotation.annotation-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.annotation.annotation-1.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.annotation.annotation-experimental-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.annotation.annotation-experimental-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.appcompat.appcompat-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.appcompat.appcompat-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.appcompat.appcompat-resources-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.appcompat.appcompat-resources-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.arch.core.core-common-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.arch.core.core-common-2.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.arch.core.core-runtime-2.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.arch.core.core-runtime-2.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.browser.browser-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.browser.browser-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.cardview.cardview-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.cardview.cardview-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.collection.collection-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.collection.collection-1.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.core.core-1.3.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.core.core-1.3.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.core.core-ktx-1.3.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.core.core-ktx-1.3.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.cursoradapter.cursoradapter-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.cursoradapter.cursoradapter-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.customview.customview-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.customview.customview-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.documentfile.documentfile-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.documentfile.documentfile-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.drawerlayout.drawerlayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.drawerlayout.drawerlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.fragment.fragment-1.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.fragment.fragment-1.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.interpolator.interpolator-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.interpolator.interpolator-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-core-ui-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-core-ui-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-core-utils-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-core-utils-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-v4-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-v4-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-common-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-common-2.3.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-livedata-2.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-livedata-2.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-livedata-core-2.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-livedata-core-2.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-runtime-2.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-runtime-2.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-viewmodel-2.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-viewmodel-2.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.loader.loader-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.loader.loader-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.media.media-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.media.media-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.print.print-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.print.print-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.savedstate.savedstate-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.savedstate.savedstate-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.tracing.tracing-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.tracing.tracing-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.vectordrawable.vectordrawable-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.vectordrawable.vectordrawable-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.versionedparcelable.versionedparcelable-1.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.versionedparcelable.versionedparcelable-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.viewpager.viewpager-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.viewpager.viewpager-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.android.installreferrer.installreferrer-2.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.android.installreferrer.installreferrer-2.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-applinks-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-applinks-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-bolts-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-bolts-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-common-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-common-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-core-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-core-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-gamingservices-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-gamingservices-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-login-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-login-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-share-16.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-share-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-ads-identifier-18.0.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-ads-identifier-18.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-appset-16.0.2.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-appset-16.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-base-18.0.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-base-18.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-basement-18.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-basement-18.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-tasks-18.0.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-tasks-18.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.code.gson.gson-2.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.code.gson.gson-2.8.8.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.zxing.core-3.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.zxing.core-3.3.3.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-android-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-android-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-applinks-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-applinks-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-tasks-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-tasks-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-core-api-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-core-api-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-core-utils-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-core-utils-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-identifiers-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-identifiers-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-modules-api-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-modules-api-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-network-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-network-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-network-tasks-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-network-tasks-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-proto-5.2.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.yandex.android.mobmetricalib-proto-5.2.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.annotations-13.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-1.5.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-common-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-common-1.5.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.5.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-jdk8-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-jdk8-1.5.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Particle System _Cool 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Particle System _Cool 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 10.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 10.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 100.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 100.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 11.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 11.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 12.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 12.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 13.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 13.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 14.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 14.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 15.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 15.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 16.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 16.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 17.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 17.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 18.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 18.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 19.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 19.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 20.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 20.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 21.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 21.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 22.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 22.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 23.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 23.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 24.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 24.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 25.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 25.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 26.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 26.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 27.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 27.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 28.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 28.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 29.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 29.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 30.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 30.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 31.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 31.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 32.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 32.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 33.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 33.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 34.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 34.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 35.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 35.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 36.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 36.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 37.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 37.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 38.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 38.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 39.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 39.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 40.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 40.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 41.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 41.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 42.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 42.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 43.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 43.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 44.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 44.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 45.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 45.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 46.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 46.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 47.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 47.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 48.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 48.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 49.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 49.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 50.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 50.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 51.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 51.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 52.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 52.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 53.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 53.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 54.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 54.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 55.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 55.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 56.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 56.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 57.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 57.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 58.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 58.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 59.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 59.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 6.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 6.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 60.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 60.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 61.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 61.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 62.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 62.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 63.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 63.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 64.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 64.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 65.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 65.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 66.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 66.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 67.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 67.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 68.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 68.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 69.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 69.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 7.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 7.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 70.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 70.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 71.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 71.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 72.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 72.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 73.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 73.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 74.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 74.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 75.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 75.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 76.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 76.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 77.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 77.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 78.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 78.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 79.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 79.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 8.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 80.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 80.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 81.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 81.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 82.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 82.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 83.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 83.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 84.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 84.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 85.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 85.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 86.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 86.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 87.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 87.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 88.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 88.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 89.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 89.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 9.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 90.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 90.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 91.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 91.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 92.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 92.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 93.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 93.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 94.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 94.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 95.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 95.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 96.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 96.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 97.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 97.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 98.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 98.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Level 99.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Level 99.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Loading.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Loading.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sounds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sounds/Chill departure.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sounds/Chill departure.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sounds/SPECIAL POP 2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sounds/SPECIAL POP 2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sounds/track_enjoythepopcorn_longloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sounds/track_enjoythepopcorn_longloop.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_10/Sticker_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_10/Sticker_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_10/Sticker_10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_10/Sticker_10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_11/Sticker_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_11/Sticker_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_11/Sticker_11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_11/Sticker_11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_12/Sticker_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_12/Sticker_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_12/Sticker_12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_12/Sticker_12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_19/Sticker_19.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_19/Sticker_19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_19/Sticker_19.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_19/Sticker_19.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_20/Sticker_20.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_20/Sticker_20.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_23/Sticker_23.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_23/Sticker_23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_23/Sticker_23.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_23/Sticker_23.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_27/Sticker_27.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_27/Sticker_27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_27/Sticker_27.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_27/Sticker_27.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_29/Sticker_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_29/Sticker_29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_29/Sticker_29.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_29/Sticker_29.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_30/Sticker_30.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_30/Sticker_30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_30/Sticker_30.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_30/Sticker_30.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_34/Sticker_34.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_34/Sticker_34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_34/Sticker_34.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_34/Sticker_34.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_35/Sticker_35.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_35/Sticker_35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_35/Sticker_35.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_35/Sticker_35.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_36/Sticker_36.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_36/Sticker_36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_36/Sticker_36.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_36/Sticker_36.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_38/Sticker_38.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_38/Sticker_38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_38/Sticker_38.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_38/Sticker_38.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_4/Sticker_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_4/Sticker_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_40/Sticker_40.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_40/Sticker_40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_40/Sticker_40.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_40/Sticker_40.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_43/Sticker_43.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_43/Sticker_43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_43/Sticker_43.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_43/Sticker_43.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_45/Sticker_45.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_45/Sticker_45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_45/Sticker_45.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_45/Sticker_45.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_48/Sticker_48.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_48/Sticker_48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_48/Sticker_48.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_48/Sticker_48.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_54/Sticker_54.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_54/Sticker_54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_54/Sticker_54.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_54/Sticker_54.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_58/Sticker_58.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_58/Sticker_58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_58/Sticker_58.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_58/Sticker_58.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_6/Frame 84 (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_6/Frame 84 (1).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_6/Sticker_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_6/Sticker_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_6/Sticker_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_6/Sticker_6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_60/Sticker_60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_60/Sticker_60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_60/Sticker_60.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_60/Sticker_60.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_61/Sticker_61.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_61/Sticker_61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_61/Sticker_61.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_61/Sticker_61.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_66/Sticker_66.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_66/Sticker_66.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_66/Sticker_66.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_66/Sticker_66.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_67/Sticker_67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_67/Sticker_67.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_72/Sticker_72.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_72/Sticker_72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_72/Sticker_72.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_72/Sticker_72.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_74/Sticker_74.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_74/Sticker_74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_74/Sticker_74.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_74/Sticker_74.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_76/Sticker_76.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_76/Sticker_76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_76/Sticker_76.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_76/Sticker_76.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_78/Sticker_78.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_78/Sticker_78.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_78/Sticker_78.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_78/Sticker_78.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_79/Sticker_79.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_79/Sticker_79.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_79/Sticker_79.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_79/Sticker_79.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_8/Sticker_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_8/Sticker_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_8/Sticker_8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_8/Sticker_8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_81/Sticker_81.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_81/Sticker_81.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_81/Sticker_81.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_81/Sticker_81.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_87/Sticker_87.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_87/Sticker_87.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_87/Sticker_87.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_87/Sticker_87.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_91/Sticker_91.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_91/Sticker_91.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_91/Sticker_91.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_91/Sticker_91.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_94/Frame 179 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_94/Frame 179 (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_97/Sticker_97.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_97/Sticker_97.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sprites/Level_97/Sticker_97.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sprites/Level_97/Sticker_97.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/1-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/1-7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/17-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/17-25.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/26-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/26-34.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/35-43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/35-43.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/44-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/44-52.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/53-61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/53-61.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/62-70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/62-70.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/71-79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/71-79.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/8-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/8-16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/80-88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/80-88.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/89-97.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/89-97.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/98-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/98-100.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/Icon 512_512.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../UI Sprites/Icon 512_512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/Icon 512_512.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../UI Sprites/Icon 512_512.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/NEW_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/NEW_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/baloo-cyrillic 2 SDF 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/baloo-cyrillic 2 SDF 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/baloo-cyrillic SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UI Sprites/baloo-cyrillic SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/AndroidResolverDependencies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/AndroidResolverDependencies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/GvhProjectSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/GvhProjectSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NjHQnXU6WOfIV0mMEWbOmwebRm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55a0252f-4900-4cb8-8db0-1be352c1b787" name="Changes" comment="" />
+      <created>1680170560213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680170560213</updated>
+      <workItem from="1680170566700" duration="686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

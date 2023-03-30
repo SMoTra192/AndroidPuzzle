@@ -16878,8 +16878,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 31.07, y: 100.07}
-  m_SizeDelta: {x: 771.21, y: 655.04}
+  m_AnchoredPosition: {x: 22.04, y: 95.9}
+  m_SizeDelta: {x: 744.8, y: 646.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &705411347
 MonoBehaviour:
@@ -16901,7 +16901,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1737534574, guid: 43c8a1565d0d40b4e8de146205a0c26e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f8709cfbb648b324cbdba29c48e4ca07, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -23526,7 +23526,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Ok
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d9c338c4845d1ea4b8c69e82a7a82ed5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: edd6098e953942e4590e676ef09e31ab, type: 2}
   m_sharedMaterial: {fileID: -4852713457044784872, guid: d9c338c4845d1ea4b8c69e82a7a82ed5, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -23590,7 +23590,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1324059093
@@ -23971,8 +23971,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 25736
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d9c338c4845d1ea4b8c69e82a7a82ed5, type: 2}
-  m_sharedMaterial: {fileID: -4852713457044784872, guid: d9c338c4845d1ea4b8c69e82a7a82ed5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: edd6098e953942e4590e676ef09e31ab, type: 2}
+  m_sharedMaterial: {fileID: 8986162920335014731, guid: edd6098e953942e4590e676ef09e31ab, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -25272,7 +25272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c2ee95d207d37b4c89d6f67d3522c62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _texture: {fileID: 2800000, guid: b47b7de054bf4ed46a8194b3d7f1624b, type: 3}
+  _texture: {fileID: 2800000, guid: 4ed0659399774ec4db8fe3a8faf123c8, type: 3}
 --- !u!1 &1585507611
 GameObject:
   m_ObjectHideFlags: 0
@@ -36673,8 +36673,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d9c338c4845d1ea4b8c69e82a7a82ed5, type: 2}
-  m_sharedMaterial: {fileID: -4852713457044784872, guid: d9c338c4845d1ea4b8c69e82a7a82ed5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: edd6098e953942e4590e676ef09e31ab, type: 2}
+  m_sharedMaterial: {fileID: 8986162920335014731, guid: edd6098e953942e4590e676ef09e31ab, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
