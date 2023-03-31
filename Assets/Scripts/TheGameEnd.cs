@@ -17,10 +17,15 @@ public class TheGameEnd : MonoBehaviour
     [SerializeField] private AudioClip clip;
     [SerializeField] private AudioSource _source;
     [SerializeField] private GameObject valueOfCompletedLevels;
+    private GameLoadManager _gameLoadManager;
     private bool isImageOn = false;
-    
 
-    
+
+    private void Awake()
+    {
+        _gameLoadManager = gameObject.GetComponent<GameLoadManager>();
+        
+    }
 
     private void FixedUpdate()
     {
@@ -31,7 +36,7 @@ public class TheGameEnd : MonoBehaviour
             hintImage.SetActive(false);
             Bar.SetActive(false);
            if (isImageOn == false) StartCoroutine(Image());
-            effectOnEnd1.SetActive(true);
+           effectOnEnd1.SetActive(true);
             effectOnEnd2.SetActive(true);
         }
         
@@ -39,6 +44,13 @@ public class TheGameEnd : MonoBehaviour
 
     private IEnumerator Image()
     {
+        int level_number = _gameLoadManager.levelNumber();
+        int level_count = _gameLoadManager.levelCount();
+        int level_loop = _gameLoadManager.levelLoop();
+        string level_name = _gameLoadManager.levelName();
+        string finish = "finished";
+        bool level_random = _gameLoadManager.levelRandom();
+        _gameLoadManager.level_finish(level_number, level_name, level_count, level_loop, level_random, finish);
         int random = Random.Range(0, images.Length);
         images[random].SetActive(true);
         isImageOn = true;
