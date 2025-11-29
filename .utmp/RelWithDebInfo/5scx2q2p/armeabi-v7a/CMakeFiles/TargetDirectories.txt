@@ -1,0 +1,5 @@
+G:/Unity/GitHub/AndroidPuzzle/.utmp/RelWithDebInfo/5scx2q2p/armeabi-v7a/CMakeFiles/edit_cache.dir
+G:/Unity/GitHub/AndroidPuzzle/.utmp/RelWithDebInfo/5scx2q2p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+G:/Unity/GitHub/AndroidPuzzle/.utmp/RelWithDebInfo/5scx2q2p/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+G:/Unity/GitHub/AndroidPuzzle/.utmp/RelWithDebInfo/5scx2q2p/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+G:/Unity/GitHub/AndroidPuzzle/.utmp/RelWithDebInfo/5scx2q2p/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
